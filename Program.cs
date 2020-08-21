@@ -10,4 +10,3 @@ namespace rapf
         }
     }
 }
-git init
